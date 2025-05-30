@@ -40,13 +40,26 @@
 
 ---
 
-### 🔥 GitHub Stats
+---
+
+### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haimoud-anass&show_icons=true&theme=react&border_radius=10" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haimoud-anass&theme=react" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=haimoud-anass&show_icons=true&count_private=true&theme=radical&hide_border=false&border_radius=10" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haimoud-anass&theme=radical&hide_border=false&border_radius=10" width="48%" alt="GitHub Streak" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haimoud-anass&layout=compact&theme=radical&hide_border=false&border_radius=10" width="48%" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=haimoud-anass&theme=radical&utcOffset=+1" width="48%" alt="Most Productive Times" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=haimoud-anass&theme=react-dark&area=true&hide_border=false&radius=10" alt="GitHub Activity Graph" />
+</p>
+
+---
+
 
 ---
 
